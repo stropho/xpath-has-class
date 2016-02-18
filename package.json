@@ -1,8 +1,8 @@
 {
   "name": "xpath-has-class",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Utility functions to help you write parts of xpaths for DOM, more spcificaly hasClass",
-  "main": "bin/index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "mocha test/test.js"
   },
