@@ -1,0 +1,31 @@
+{
+  "name": "xpath-has-class",
+  "version": "1.0.2",
+  "description": "Utility functions to help you write parts of xpaths for DOM, more spcificaly hasClass",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "mocha test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stropho/xpath-has-class.git"
+  },
+  "keywords": [
+    "xpath",
+    "xpath-helper",
+    "xpath-util",
+    "hasClass",
+    "@class",
+    "contains"
+  ],
+  "author": "Stropho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stropho/xpath-has-class/issues"
+  },
+  "homepage": "https://github.com/stropho/xpath-has-class",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
